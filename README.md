@@ -23,7 +23,7 @@ import KnobControl
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Philip Kluz (Philip.Kluz@gmail.com)
+Copyright (c) 2020 Julius Abarra (iamjcabarra@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
