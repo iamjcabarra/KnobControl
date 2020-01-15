@@ -12,7 +12,7 @@ To install KnobControl, include the following in your Podfile
 pod 'KnobControl', '~> 1.0.0'
 ```
 
-## How To
+## Usage
 
 After adding the framework to your project, you need to import the module
 ```swift
