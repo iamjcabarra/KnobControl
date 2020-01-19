@@ -1,12 +1,9 @@
 # KnobControl
+
 The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare.
 
 ## Installation
-**The recommended way is to use CocoaPods.**
-
-### CocoaPods
-
-To install KnobControl, include the following in your Podfile
+The recommended way is to use ##CocoaPods##. To install KnobControl, include the following in your Podfile
 
 ```ruby
 pod 'KnobControl', '~> 1.0.0'
